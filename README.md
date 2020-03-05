@@ -1,2 +1,2 @@
 # python
-#this is a preperation for my studies :)
+* this is a preperation for my studies :)
