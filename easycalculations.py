@@ -1,7 +1,7 @@
 print("easy calculation\n================")
 
 while 1:
-
+    #read first number until float value
     while 1:
         number1 = input("first number: ")
         try:
@@ -10,5 +10,6 @@ while 1:
         except:
             print("enter a number, not a text")
     while 1:
-        allowedoperators = '+-*/%'
+        #read operator until allowed one
+        allowedoperators = '+-*/'
         
