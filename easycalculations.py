@@ -24,6 +24,8 @@ while 1:
         except:
             print("enter a number, not a text")
 
+    #no switch case in python :(
+        
     if operator == "+":
         result=number1+number2
     if operator == "-":
